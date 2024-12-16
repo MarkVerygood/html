@@ -7,4 +7,7 @@ h2 {font-wheight: bold;
  font-size: 24px;
 color: mediumblue
 text-align: center;}
-h3 
+p { color:blue;
+   background-color:azure;
+   font-size: 18px
+   text-align: justifiy;}
